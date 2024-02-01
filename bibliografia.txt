@@ -1,1 +1,5 @@
 añadido desde rama main
+punto 1
+punto 2
+cambiado desde rama bibliografia
+
